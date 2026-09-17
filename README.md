@@ -1,4 +1,3 @@
-Markdown
 # Análise de Campanha de Marketing — Dashboard Power BI
 
 ## Descrição do Projeto
