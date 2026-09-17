@@ -13,7 +13,7 @@ Mapeamento do perfil básico da base de clientes e volume de transações por ca
 * **Métricas Principais**: Total de Clientes (**1.999 mil**), Média Salarial Anual (**51,98 mil**), Compras na Loja (**12 mil**), Compras Online (**8 mil**), Compras via Catálogo (**5 mil**) e Compras com Desconto (**5 mil**).
 * **Análise Demográfica**: Distribuição por nível de escolaridade (liderado por *Curso Superior*) e estado civil (liderado por *Solteiro* e *Casado*).
 
-[Visão do Cliente](dashboardmarketing1.jpg)
+[Visão do Cliente](dashboardmaketing1.jpg)
 
 
 ### 2. Visão do Comportamento do Cliente
@@ -22,7 +22,7 @@ Análise avançada do perfil de consumo correlacionado à renda e estrutura fami
 * **Renda vs. Consumo**: Dispersão mostrando a correlação entre salário anual e total de gastos.
 * **Impacto da Família no Consumo**: Gastos consolidados por número de filhos e adolescentes em casa.
 
-[Visão do Comportamento do Cliente](dashboardmarketing2.jpg)
+[Visão do Comportamento do Cliente](dashboardmaketing2.jpg)
 
 
 ### 3. Visão de Performance da Campanha
@@ -31,7 +31,7 @@ Avaliação da taxa de conversão e eficiência das ações de marketing.
 * **Efetividade por Filhos**: Comparativo de adesão conforme a quantidade de dependentes.
 * **Perfil Salarial de Conversão**: Média salarial dos clientes que aceitaram a campanha (**59 mil**) vs. os que recusaram (**51 mil**).
 
-[Performance da Campanha](dashboardmarketing3.jpg)
+[Performance da Campanha](dashboardmaketing3.jpg)
 
 
 ### 4. Padrões de Compra por Ponto de Venda
@@ -39,7 +39,7 @@ Evolução temporal e distribuição geográfica dos gastos por categoria.
 * **Evolução de Gastos (2018-2023)**: Acompanhamento anual por país, destacando os *Estados Unidos* como principal mercado.
 * **Gastos por Categoria e País**: Detalhamento das categorias mais consumidas por localização geográfica.
 
-[Padrões de Compra](dashboardmarketing4.jpg)
+[Padrões de Compra](dashboardmaketing4.jpg)
 
 
 ## Tecnologias Utilizadas
