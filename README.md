@@ -57,4 +57,4 @@ Você pode baixar o arquivo original do Power BI para explorar a modelagem de da
 > *Nota: É necessário ter o Power BI Desktop instalado para abrir o arquivo.*
 
 
-Desenvolvido por **[Klyane Cabral]** • [Seu LinkedIn](https://www.linkedin.com/in/klyanecabral/)
+Desenvolvido por **[Klyane Cabral]** • [LinkedIn](https://www.linkedin.com/in/klyanecabral/)
